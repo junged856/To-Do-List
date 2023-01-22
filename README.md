@@ -8,5 +8,6 @@ A simple to do list app made in JavaFX using Eclipse
 <p>- Able to toggle between selecting and de-selecting all tasks</p>
 
 <h1>Video Demo:</h1>
-https://user-images.githubusercontent.com/109245538/213901227-e705448a-5775-4c73-b1f3-f96481774561.mp4
+
+https://user-images.githubusercontent.com/109245538/213901412-1a3fab35-f0bd-44df-8044-9e2b67f75a23.mp4
 
