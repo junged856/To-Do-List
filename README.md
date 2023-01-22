@@ -1,4 +1,4 @@
-# To-Do-List
+# To-Do List App
 A simple to do list app made in JavaFX using Eclipse
 
 <h1>Features:</h1>
